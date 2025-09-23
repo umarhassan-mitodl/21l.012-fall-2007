@@ -1,0 +1,59 @@
+{
+  "term": "Fall",
+  "year": "2007",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "Fiction"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Comparative Literature"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "International Literature"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Criticism"
+    ]
+  ],
+  "legacy_uid": "cc2eccfc-03d8-8f0e-19f2-3cf39e72dee6",
+  "instructors": {
+    "content": [
+      "7391b454-4dd0-b061-944a-b6a2e4be0c01"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "1d19e304-4665-254e-efbc-4b399d5bdc91",
+    "website": "21l-012-forms-of-western-narrative-fall-2007"
+  },
+  "course_title": "Forms of Western Narrative",
+  "course_description": "This course examines some leading examples of major genres of storytelling in the Western tradition, among them epic (Homer's _Odyssey_), romance (from the Arthurian tradition), and novel (Cervantes's _Don Quixote_). We will be asking why people tell (and have always told) stories, how they tell them, why they might tell them the way they do, and what difference it makes how they tell them. We'll combine an investigation of the changing formal properties of narratives with consideration of the historical, cultural, and technological factors that have influenced how tales got told. In keeping with its CI-H and HASS-D label, this course will involve substantial attention to students' writing and speaking abilities.\n",
+  "department_numbers": [
+    "21L"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21L.012",
+  "course_image_thumbnail": {
+    "content": "33858418-9ed2-1921-494f-162db5ecd4fe",
+    "website": "21l-012-forms-of-western-narrative-fall-2007"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "site_uid": "1dbdb70a-05b4-4afe-b37d-0c4c9ecb5663",
+  "site_short_id": "21l.012-fall-2007",
+  "site_url_path": "courses/21l-012-forms-of-western-narrative-fall-2007",
+  "title": "Course Metadata"
+}

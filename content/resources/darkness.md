@@ -4,6 +4,8 @@ description: Lecture notes on Heart of Darkness, by Joseph Conrad.
 file: /courses/21l-012-forms-of-western-narrative-fall-2007/30d54f321df80e3515e7aff9b4fafa4d_darkness.pdf
 file_size: 28003
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

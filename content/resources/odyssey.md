@@ -4,6 +4,8 @@ description: Lecture notes on The Odyssey, by Homer.
 file: /courses/21l-012-forms-of-western-narrative-fall-2007/9cd5e5d838d6c6f3d5045c32f273b173_odyssey.pdf
 file_size: 68984
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: Instructions for the paper revision project.
 file: /courses/21l-012-forms-of-western-narrative-fall-2007/35e2cf4f82875f31a35905a929d98ea0_paper_revision.pdf
 file_size: 17090
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

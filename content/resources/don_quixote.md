@@ -4,6 +4,8 @@ description: Lecture notes on Don Quixote, by Miguel de Cervantes Saavedra.
 file: /courses/21l-012-forms-of-western-narrative-fall-2007/81524c9b21dc8a9c0d6440d211c9cb9c_don_quixote.pdf
 file_size: 40786
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

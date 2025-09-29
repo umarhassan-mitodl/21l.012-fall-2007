@@ -5,6 +5,8 @@ description: Lecture notes on Arthurian romances by Chr?tien de Troyes, King Art
 file: /courses/21l-012-forms-of-western-narrative-fall-2007/eff35df8f7e1b41231c49f44ab443a90_arthur.pdf
 file_size: 23809
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

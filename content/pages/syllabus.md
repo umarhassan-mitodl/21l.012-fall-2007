@@ -4,6 +4,8 @@ description: The syllabus section provides the course description and informatio
   about required texts, the class schedule, a special feature, the course calendar,
   student work, guidelines, grading policy, principles of assessment, and policy on
   plagiarism.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -354,4 +356,4 @@ On oral presentations, students will be judged on pertinence, clarity, and organ
 On Plagiarism
 -------------
 
-Plagiarism—use of another's intellectual work without acknowledgement—is a serious offense. It is the policy of the Literature Faculty that students who plagiarize will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work. For further guidance on the proper forms of attribution, consult the style guides available at the MIT's Writing and Communication Center and useful {{% resource_link "592124b4-7ddc-4169-aa59-9a38c4ddfcfe" "citations" %}} links located here.
+Plagiarism—use of another's intellectual work without acknowledgement—is a serious offense. It is the policy of the Literature Faculty that students who plagiarize will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work. For further guidance on the proper forms of attribution, consult the style guides available at the MIT's Writing and Communication Center and useful [citations](http://web.mit.edu/writing/Citation/index.html) links located here.

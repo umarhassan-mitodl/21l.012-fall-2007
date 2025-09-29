@@ -4,6 +4,8 @@ description: Lecture notes on The Complete Grimm's Fairy Tales, by the Brothers 
 file: /courses/21l-012-forms-of-western-narrative-fall-2007/d276b721a36524d4f97c7d159f39ef12_grimms.pdf
 file_size: 26249
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

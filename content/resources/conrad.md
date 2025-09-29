@@ -5,6 +5,8 @@ description: This resource contains the information about heart of darkness in t
 file: /courses/21l-012-forms-of-western-narrative-fall-2007/1c976dcc13c8d7845f343ea48c7191a5_conrad.pdf
 file_size: 38938
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
